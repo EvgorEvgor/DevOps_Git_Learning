@@ -5,3 +5,6 @@
 terraform.rc
 *.tfvars
 *.tfvars.json
+/Lesson5/etc_dir.txt
+/Lesson5/executable.txt
+/Lesson5/sorted_var_log.txt
